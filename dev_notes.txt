@@ -1,2 +1,3 @@
 project development guidelines
 feature1 implementation details
+making uncommited changes
